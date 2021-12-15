@@ -1,0 +1,116 @@
+Donate Me To Keep me Motivated and Inspired.
+
+https://www.paypal.me/dollorinfotech
+Paytm No:  +91-7999452711
+
+Subscribe my Channel
+https://www.youtube.com/channel/UCJHZAScOtYQYjCNEmiqLEYQ
+
+Ecommerce Frontend Flipkart Playlist
+https://www.youtube.com/playlist?list=PL_kVwOdi-YKRZsPquY0EY78q4Ps8M2rOv
+
+Project For Students DCA, PGDCA, B.Sc (CS), M.sc(CS), BCA, MCA, BE (CS), B.Tech(CS), IT Subject
+
+To Get Source Code 
+Contact Me
+My SkypeId :-  anildalar
+My Contact :- +91-7999452711
+My Whatsapp:- +91-7999452711
+My Email :-     dollorinfotech@gmail.com
+My Website:-  http://www.dollorinfotech.com
+
+Flipkart
+	Home Page
+	Search/Filter Page
+	Detail Page
+	View Cart Page
+	Checkout Page
+	Thank You Page
+
+
+Header
+Main
+Footer
+
+box-shadow: X Y B S C
+  
+
+Cache Clear
+Ctrl + Shift + Del
+
+sm = small
+md = medium
+lg = large
+xl = extra large
+
+xs  = 0px - 575px;
+col-sm  =  576px to 767px
+col-md  = 768px to 991px
+col-lg    = 992px to 1199px
+col-xl    = 1200px to max
+
+
+Problems
+	Original Flipkart Main Slider 2s interval
+	Our Main Slider 5s interval
+
+https://stackoverflow.com/questions/28750907/how-to-customize-bootstrap-column-widths
+
+https://seiyria.com/bootstrap-slider/
+
+https://codepen.io/P1N2O/pen/pyBNzX
+
+https://stackoverflow.com/questions/43033544/change-chevron-up-and-down-on-click
+
+
+DRY = Dont Repeate Yourself
+
+border-width: T R B L;
+
+ZOOM Plugins
+https://payalord.github.io/xZoom/
+https://www.magictoolbox.com/magiczoomplus/
+
+https://stackoverflow.com/questions/4655273/jquery-window-scrolltop-but-no-window-scrollbottom
+
+Rules
+Family of Colors
+
+DOM = DOCUMENT OBJECT MODEL
+	
+jQuery Closest Method = Traversing Up the Dom (child -> parent)
+
+jQuery Find Method = Traversing Down the Dom (parent -> child )
+
+background: bg-color bg-image position/bg-size bg-repeat bg-origin bg-clip bg-attachment initial|inherit;
+
+
+Bootstrap 4
+5 lines of Code
+  1.meta name=viewport
+  2. link bootstrap.min.css
+
+  3. jQuery
+  4.poper.min.js.
+  5.bootrap.min.js
+
+Responsive
+Grid Classes
+.col	 = extra small devices (0px - 576px)
+.col-sm-	= small devices           ( 577px - 767px)
+.col-md-   = medium devices        (768px - 991px)
+.col-lg- 	= large devices	  ( 992px - 1199px )
+col-xl-	= xlarge devices          (1200px - )
+
+
+Assignment
+col -   11-1
+sm - 10 - 2
+md - 6 -6 (hide)
+lg   - 2-10
+xl    - 1-1
+
+
+
+
+
